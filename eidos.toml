@@ -1,0 +1,7 @@
+name = "symptom-checker"
+version = "0.1.0"
+description = "Symptom checker"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
