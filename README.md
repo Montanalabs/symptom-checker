@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `symptom-checker_safe.os` — the correct design.
-- `symptom-checker_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `symptom-checker_safe.wave` — the correct design.
+- `symptom-checker_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
